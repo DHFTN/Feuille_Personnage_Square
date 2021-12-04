@@ -1,2 +1,2 @@
-# Feuille_Personnage_BlackSquare
-Feuille de personnage - Modèle BlackSquare
+# Feuille de Personnage (compatible 5E) - Modèle BlackSquare 
+La nouvelle fiche de personnage - DHFTN Collection
