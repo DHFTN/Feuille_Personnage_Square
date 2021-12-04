@@ -21,5 +21,6 @@ Chacune des versions se composent :
 
 ## _Feuille de personnage - BlackSquare - v. 1_
 La nouvelle version de la fiche de personnage DHFTN Collection est arrivée. 
-[![BlackSquare](https://i.ibb.co/k0pBcWY/Black-Square.jpg)]
-[![BlackSquare](https://i.ibb.co/ByDvwb2/bs.png)]
+![BlackSquare](https://i.ibb.co/ByDvwb2/bs.png)
+![BlackSquare](https://i.ibb.co/k0pBcWY/Black-Square.jpg)
+
