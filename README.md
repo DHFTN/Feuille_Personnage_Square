@@ -10,7 +10,7 @@ Trois versions sont proposées :
 - une version éditable dans votre logiciel PDF préféré ;
 - une version en anglais pour les puristes.
 
-Chacune des versions se composent : 
+Chacune des versions se compose : 
 - d'une "Feuille de personnage" avec les données les plus utiles ;
 - d'une feuille "Passé, Description et Équipement" du personnage ;
 - d'une feuille "Magie" pour les lanceurs de sorts ;
