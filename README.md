@@ -1,14 +1,14 @@
-# Feuille de Personnage (compatible 5E) & Dossier de personnage - Modèle BlackSquare 
+# Feuille de Personnage (compatible 5E) & Dossier de personnage - Modèles Square (BlackSquare & ColorSquare)
 La nouvelle fiche de personnage - DHFTN Collection
 
 **ATTENTION** : Les fiches éditables sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
-Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.), dans sa nouvelle version BlackSquare.
+Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.), dans sa nouvelle version BlackSquare et dans sa déclinaison ColorSquare.
 
 Trois versions sont proposées : 
 - une version manuscrite à imprimer ;
 - une version éditable dans votre logiciel PDF préféré ;
-- une version en anglais pour les puristes.
+- une version en anglais pour les puristes (uniquement en version BlackSquare).
 
 Chacune des versions se compose : 
 - d'une "Feuille de personnage" avec les données les plus utiles ;
@@ -17,7 +17,7 @@ Chacune des versions se compose :
 - d'une feuille "Compagnon / Forme sauvage" ;
 - d'une notice qui explique comment calculer les valeurs des différentes caractéristiques, compétences... (dans les versions françaises uniquement).
 
-En plus de ses versions classiques, je vous propose un dossier de personnage complet où vous retrouverez les différentes feuilles mais aussi : 
+En plus de ses versions classiques, je vous propose un dossier de personnage complet où vous retrouverez les différentes feuilles mais aussi (uniquement en version BlackSquare- : 
 - un tableau des armes et des armures classiques ;
 - les règles OGL (hors archétypes) des classes ;
 - un memento sur les règles de combat.
@@ -27,5 +27,6 @@ En plus de ses versions classiques, je vous propose un dossier de personnage com
 ## _Feuille de personnage & Dossier de personnage - BlackSquare - v. 1_
 La nouvelle version de la fiche de personnage DHFTN Collection est arrivée. 
 ![BlackSquare](https://i.ibb.co/ByDvwb2/bs.png)
+![ColorSquare](https://www.black-book-editions.fr/contenu/users/78375/image/13_Flyer_Mockup.jpg)
 ![Dossier personnage](https://i.ibb.co/DQsVxjV/Dossier-personnage.jpg)
 
