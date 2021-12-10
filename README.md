@@ -24,7 +24,7 @@ En plus de ses versions classiques, je vous propose un dossier de personnage com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
 
-## _Feuille de personnage & Dossier de personnage - BlackSquare - v. 1_
+## _Feuille de personnage & Dossier de personnage - BlackSquare & ColorSquare - v. 1_
 La nouvelle version de la fiche de personnage DHFTN Collection est arrivée. 
 ![BlackSquare](https://i.ibb.co/ByDvwb2/bs.png)
 ![ColorSquare](https://www.black-book-editions.fr/contenu/users/78375/image/13_Flyer_Mockup.jpg)
