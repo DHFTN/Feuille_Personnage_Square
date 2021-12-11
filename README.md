@@ -17,7 +17,7 @@ Chacune des versions se compose :
 - d'une feuille "Compagnon / Forme sauvage" ;
 - d'une notice qui explique comment calculer les valeurs des différentes caractéristiques, compétences... (dans les versions françaises uniquement).
 
-En plus de ses versions classiques, je vous propose un dossier de personnage complet où vous retrouverez les différentes feuilles mais aussi (uniquement en version BlackSquare- : 
+En plus de ses versions classiques, je vous propose un dossier de personnage complet où vous retrouverez les différentes feuilles mais aussi : 
 - un tableau des armes et des armures classiques ;
 - les règles OGL (hors archétypes) des classes ;
 - un memento sur les règles de combat.
