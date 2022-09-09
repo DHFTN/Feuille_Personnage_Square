@@ -28,5 +28,5 @@ En plus de ses versions classiques, je vous propose un dossier de personnage com
 La nouvelle version de la fiche de personnage DHFTN Collection est arrivée. 
 ![BlackSquare](https://www.black-book-editions.fr/contenu/users/78375/image/BS.png)
 ![ColorSquare](https://www.black-book-editions.fr/contenu/users/78375/image/13_Flyer_Mockup.jpg)
-![Dossier personnage](https://i.ibb.co/DQsVxjV/Dossier-personnage.jpg)
+
 
