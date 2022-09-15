@@ -5,6 +5,8 @@ La nouvelle fiche de personnage - DHFTN Collection
 
 Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.), dans sa nouvelle version BlackSquare et dans sa déclinaison ColorSquare.
 
+***Up du 15/09/2022*** : Une version H&D (suffixée vHD) de la fiche de personnage a été ajoutée pour celles et ceux qui voudraient jouer avec les anciennes dénominations des compétences. 
+
 Trois versions sont proposées : 
 - une version manuscrite à imprimer ;
 - une version éditable dans votre logiciel PDF préféré ;
