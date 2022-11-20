@@ -10,7 +10,7 @@ Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex
 Trois versions sont proposées : 
 - une version manuscrite à imprimer ;
 - une version éditable dans votre logiciel PDF préféré ;
-- une version en anglais pour les puristes (uniquement en version BlackSquare).
+- une version en anglais pour les puristes.
 
 Chacune des versions se compose : 
 - d'une "Feuille de personnage" avec les données les plus utiles ;
