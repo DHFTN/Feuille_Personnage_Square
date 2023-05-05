@@ -8,6 +8,7 @@ Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex
 ***Up du 3/05/2023*** : Une version éditable au format tablette (format iPad - mais fonctionne aussi sur Android) en Bêta. Merci de faire vos retours :
 - soit sur le post consacré à la DHFTN Collection sur les forums de BBE : https://black-book-editions.fr/forums.php?topic_id=20359&nbp=4&nop=0 ;
 - soit sur le discord From The North, rubrique Retours et Playtests : https://discord.gg/JEWK7zaeXV
+  -> Correctif du 5/05/2023 (version 1.0b) : correction dans les champs des modificateurs des Compétences et du dé de vie qui affichait un signe + sur la version Windows d'Acrobat Reader (merci Ombreloup)
 
 ***Up du 15/09/2022*** : Une version H&D (suffixée vHD) de la fiche de personnage a été ajoutée pour celles et ceux qui voudraient jouer avec les anciennes dénominations des compétences. 
 
