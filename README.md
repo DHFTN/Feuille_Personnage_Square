@@ -11,8 +11,8 @@ Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex
 
   -> *Correctif du 5/05/2023 (version 1.0b)* : correction dans les champs des modificateurs des Compétences et du dé de vie qui affichait un signe + sur la version Windows d'Acrobat Reader (merci Ombreloup)
   
-  -> *Correctif du 9/05/2023 (version 1.0c)* : 
-  - correction d'une erreur qui dupliquer l'arme 1 sur l'arme 4 ;
+  -> *Correctif du 9/05/2023 (version 1.0c)* (merci Wyl') : 
+  - correction d'une erreur qui dupliquait l'arme 1 sur l'arme 4 ;
   - bug sur l'insertion de portrait qui n'affichait rien.
 
 ***Up du 15/09/2022*** : Une version H&D (suffixée vHD) de la fiche de personnage a été ajoutée pour celles et ceux qui voudraient jouer avec les anciennes dénominations des compétences. 
