@@ -14,9 +14,7 @@ Une version spécifique de cette nouvelle version BlackSquare est disponible pou
 
 
 ## _Feuille de personnage & Dossier de personnage - BlackSquare & ColorSquare - v. 1 (version 2021-2022)_
-La nouvelle version de la fiche de personnage DHFTN Collection est arrivée. 
-![BlackSquare](https://www.black-book-editions.fr/contenu/users/78375/image/BS.png)
-![ColorSquare](https://www.black-book-editions.fr/contenu/users/78375/image/13_Flyer_Mockup.jpg)
+La version 2021 de la fiche de personnage DHFTN Collection (n'est plus mise à jour). 
 
 ***Up du 15/09/2022*** : Une version H&D (suffixée vHD) de la fiche de personnage a été ajoutée pour celles et ceux qui voudraient jouer avec les anciennes dénominations des compétences. 
 
