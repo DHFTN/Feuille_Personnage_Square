@@ -12,6 +12,9 @@ Sont disponibles :
 
 Une version spécifique de cette nouvelle version BlackSquare est disponible pour tablette (format iPad mais utilisable sans problème sous Android)
 
+![version papier](https://black-book-editions.fr/contenu/users/78375/image/mockup.jpg)
+
+![version iPad](https://black-book-editions.fr/contenu/users/78375/image/bs_ipad_mockup.jpg)
 
 ## _Feuille de personnage & Dossier de personnage - BlackSquare & ColorSquare - v. 1 (version 2021-2022)_
 La version 2021 de la fiche de personnage DHFTN Collection (n'est plus mise à jour). 
