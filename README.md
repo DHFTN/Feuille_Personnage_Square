@@ -1,4 +1,4 @@
-# Feuille de Personnage (compatible 5E) & Dossier de personnage - Modèles Square (BlackSquare & ColorSquare)
+# Feuille de Personnage (compatible 5E) - Modèles Square
 La nouvelle fiche de personnage - DHFTN Collection
 
 **ATTENTION** : Les fiches éditables sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
