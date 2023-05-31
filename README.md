@@ -3,16 +3,18 @@ La nouvelle fiche de personnage - DHFTN Collection
 
 **ATTENTION** : Les fiches éditables sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
-## [NEW] _Feuille de personnage - BlackSquare 2 - v. 1 (version 2023)_
+## [NEW] _Feuille de personnage - BlackSquare 2 et ColorSquare 2- v. 1 (version 2023)_
 
-Une nouvelle mouture pour la fiche de personnage BlackSquare. Vous retrouverez les principales fonctions des modèles précédents dans une version épurée et réagencée tout en noir et blanc.
+Une nouvelle mouture pour les fiches de personnage BlackSquare et ColorSquare. Vous retrouverez les principales fonctions des modèles précédents dans une version épurée et réagencée tout en noir et blanc ou en coulaure.
 Sont disponibles : 
 - une version D&D, soit à imprimer, soit éditable dans un logiciel PDF ;
 - une version H&D / RnP, soit à imprimer, soit éditable dans un logiciel PDF
 
 Une version spécifique de cette nouvelle version BlackSquare est disponible pour tablette (format iPad mais utilisable sans problème sous Android)
 
-![version papier](https://black-book-editions.fr/contenu/users/78375/image/mockup.jpg)
+![version BS papier](https://black-book-editions.fr/contenu/users/78375/image/mockup.jpg)
+
+![version CS papier](https://black-book-editions.fr/contenu/users/78375/image/cs2.jpg)
 
 ![version iPad](https://black-book-editions.fr/contenu/users/78375/image/bs_ipad_mockup.jpg)
 
