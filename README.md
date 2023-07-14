@@ -9,8 +9,9 @@ Une nouvelle mouture pour les fiches de personnage BlackSquare et ColorSquare. V
 Sont disponibles : 
 - une version D&D, soit à imprimer, soit éditable dans un logiciel PDF ;
 - une version H&D / RnP, soit à imprimer, soit éditable dans un logiciel PDF
+- une version en anglais, soit à imprimer, soit éditable dans un logiciel PDF ;
 
-Une version spécifique de cette nouvelle version BlackSquare est disponible pour tablette (format iPad mais utilisable sans problème sous Android)
+Une version spécifique de cette nouvelle version BlackSquare est disponible pour tablette (format iPad mais utilisable sans problème sous Android) (Français uniquement)
 
 ![version BS papier](https://black-book-editions.fr/contenu/users/78375/image/mockup.jpg)
 
