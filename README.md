@@ -1,9 +1,9 @@
 # Feuille de Personnage (compatible 5E) - Modèles Square
-La nouvelle fiche de personnage - DHFTN Collection
+DHFTN Collection
 
 **ATTENTION** : Les fiches éditables sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
-## [NEW] _Feuille de personnage - BlackSquare 2 et ColorSquare 2- v. 1 (version 2023)_
+## _Feuille de personnage - BlackSquare 2 et ColorSquare 2- v. 1 (version 2023)_
 
 Une nouvelle mouture pour les fiches de personnage BlackSquare et ColorSquare. Vous retrouverez les principales fonctions des modèles précédents dans une version épurée et réagencée tout en noir et blanc ou en coulaure.
 Sont disponibles : 
